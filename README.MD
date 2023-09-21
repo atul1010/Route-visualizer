@@ -20,6 +20,4 @@
 | Red           | End Node       |
 | Orange        | Path Nodes     |
 
-### A sampe image of doing BFS on a grid.
-![Sample Image](Sample.png)
 
